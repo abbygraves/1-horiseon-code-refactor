@@ -21,32 +21,27 @@ Horiseon, a marketing agency, needed to ensure that their codebase for their web
 ## **What I Started With**
 I began with an index.html and style.css file both containing code that made up all of the visual aspects and information seen on Horiseon's homepage. I was also given a mock-up of what the finished site should look like. 
 
+```md
+![mock-up](assets/images/mock-up.png)
+```
+
 To begin, I determined the areas that were in need of improvment in both files:
 
-<table><tr><td>
+## <ins>HTML</ins>
++ Formatting
++ Structure
++ `title` element
++ Link functions
++ Over usage of `div` element
++ Accessible image elements
 
-  > **HTML**
-  + Formatting
-  + Structure
-  + < `title` >
-  + Link functions
-  + Over usage of < `div` >
-  + Accessible image elements
+<br/>
 
-</td></tr></table>
+## <ins>CSS</ins>
++ Order of the rules
++ Multiple classes containing <br/> duplicate declarations
++ Class names
 
-<table><tr><td>
-
-  > **CSS**
-  + Order of the rules
-  + Multiple classes containing <br/> duplicate declarations
-  + Class names
-
-</td></tr></table>
-
-```md
-![mock-up](.assets/images/mock-up.png)
-```
 <br/>
 
 ## **Modifications**
