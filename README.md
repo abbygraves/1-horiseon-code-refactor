@@ -27,7 +27,7 @@ I began with an index.html and style.css file both containing code that made up 
 
 To begin, I determined the areas that were in need of improvment in both files:
 
-## <ins>HTML</ins>
+### <ins>HTML</ins>
 + Formatting
 + Structure
 + `title` element
@@ -37,7 +37,7 @@ To begin, I determined the areas that were in need of improvment in both files:
 
 <br/>
 
-## <ins>CSS</ins>
+### <ins>CSS</ins>
 + Order of the rules
 + Multiple classes containing <br/> duplicate declarations
 + Class names
