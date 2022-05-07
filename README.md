@@ -60,3 +60,4 @@ To begin, I determined the areas that were in need of improvment in both files:
 <br/>
 
 ## **What I Learned**
+This project taught me the importance of simplicity, structure, and organization when writing code. The orginal code I was given was difficult to decipher and very crowded. The use of semantic elements can drastically change the way code is read and allows the developer as well as accessibility tools such as screen readers to follow a locical structure thus making the content easier to understand. Not only do semantic elements make code more visually appealing, but they also have the capability to optimize websites for search engines. This is extremely important for any business that's looking to reach a wide range of customers. 
