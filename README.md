@@ -4,6 +4,8 @@
 
 The purpose of this project was to ensure that the codebase met accessibilty standards and functionality requirements for a published website so that the website was optimized for search engines and customers needs.
 
+**Link to depolyed GitHub page ➝** [https://abbygraves.github.io/mod-1-challenge/](https://abbygraves.github.io/mod-1-challenge/)
+
 <br/>
 
 ## **Table of Contents**
