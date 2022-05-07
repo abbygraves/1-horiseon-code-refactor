@@ -29,7 +29,7 @@ I began with an index.html and style.css file both containing code that made up 
 
 <br/>
 
-To begin, I determined the areas that were in need of improvment <br/>in both files:
+To begin, I determined the areas that were in need of improvement <br/>in both files:
 
 ### <ins>HTML</ins>
 + Formatting
@@ -45,11 +45,6 @@ To begin, I determined the areas that were in need of improvment <br/>in both fi
 + Class names too specific
 + Lack of comments 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 ## **Modifications**
