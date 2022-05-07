@@ -25,11 +25,11 @@ Horiseon, a marketing agency, needed to ensure that their codebase for their web
 ## **What I Started With**
 I began with an index.html and style.css file both containing code that made up the majority of the visual aspects, the information, and functions seen on Horiseon's homepage. I was also given a mock-up of what the finished site should look like. 
 
-```md
-![mock-up](assets/images/mock-up.png)
-```
+<img align="right" src="assets/images/mock-up.png" width="300px" border="10px">
 
-To begin, I determined the areas that were in need of improvment in both files:
+<br/>
+
+To begin, I determined the areas that were in need of improvment <br/>in both files:
 
 ### <ins>HTML</ins>
 + Formatting
@@ -45,6 +45,11 @@ To begin, I determined the areas that were in need of improvment in both files:
 + Class names too specific
 + Lack of comments 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 ## **Modifications**
