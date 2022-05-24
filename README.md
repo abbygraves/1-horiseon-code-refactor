@@ -4,7 +4,7 @@
 
 The purpose of this project was to ensure that the codebase met accessibilty standards and functionality requirements for a published website so that the website was optimized for search engines and customers needs.
 
-**Link to depolyed GitHub page ➝** [https://abbygraves.github.io/mod-1-challenge/](https://abbygraves.github.io/mod-1-challenge/)
+**Link to depolyed GitHub page ➝** [https://abbygraves.github.io/1-horiseon-code-refactor/](https://abbygraves.github.io/1-horiseon-code-refactor/)
 
 <br/>
 
